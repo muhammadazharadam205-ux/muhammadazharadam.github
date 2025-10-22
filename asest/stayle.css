@@ -1,0 +1,27 @@
+body{
+    background-image: url(begraun.jpeg);
+
+}
+ .display-4 {
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+ }
+ .navbar-brand {
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+ }
+ .nav-link {
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+ }
+ .text{
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+ }
+.text-center{
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+}
+.bs-text-opacity{
+    color : aqua; 
+}
